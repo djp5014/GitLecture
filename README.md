@@ -12,3 +12,14 @@ __This will also be bold__
 - Hellow World
   - apple
   - school
+
+```javascript
+var a = 1;
+
+if(a = 1){
+
+alert("!!");
+
+};
+
+```
